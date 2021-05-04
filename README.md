@@ -1,6 +1,12 @@
 ### Hi 👋 
 
-Welcome to my github page. I'm a brazilian Developer U+1F1E7
+#lazaropj { 
+  position: Brazil  ; 
+  height: 179cm; 
+  display: boy; 
+  background: building and fixing bugs 🐞; 
+  color: yellow 
+}
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaropj)](https://github.com/anuraghazra/github-readme-stats)
 
