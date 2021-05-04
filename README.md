@@ -9,6 +9,11 @@
 }
 ```
 
+### Where I waste my time
+
+<img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" >
+
+
 ### 🚴‍♀️ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaropj)](https://github.com/anuraghazra/github-readme-stats)
