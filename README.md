@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 
+
+Welcome to my github page. I'm a brazilian Developer U+1F1E7
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaropj)](https://github.com/anuraghazra/github-readme-stats)
 
