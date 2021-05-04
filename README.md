@@ -1,5 +1,5 @@
-### Hi 👋 
 
+```css
 #lazaropj { 
   position: Brazil  ; 
   height: 179cm; 
@@ -7,6 +7,9 @@
   background: building and fixing bugs 🐞; 
   color: yellow 
 }
+```
+
+### 🚴‍♀️ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaropj)](https://github.com/anuraghazra/github-readme-stats)
 
