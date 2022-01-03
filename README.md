@@ -12,10 +12,10 @@
 ### 👷‍♂️ Where I waste my time
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" >
+<img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" >
 <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" >
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" >
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" >
-
 
 ### 🚴‍♀️ Stats
 
